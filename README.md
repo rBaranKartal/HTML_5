@@ -1,2 +1,2 @@
 # HTML_5
-HTML 5 Bilgileri
+Bu Kütüphane Size HTML-5 için Gerekli Bilgileri ve Bilmeniz Gerekn Terimleri Açıklayacak.
